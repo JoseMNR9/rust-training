@@ -16,7 +16,7 @@ Exercises that I have used to learn to program in rust and I leave them here so 
 
 | Easy              | Intermediate               | Hard  |
 |-------------------|----------------------------|-------|
-| [Converter](./converter/README.md)  | [Pig-Latin](./pig-latin/README.md)  | WIP   |
-| [Fibonacci](./fibonacci/README.md)  | [HasMap](./hasMap-train/README.md)  |       |
-| [Guessing game](./guessing_game/README.md) |                            |       |
+| [Converter](./converter/)  | [Pig-Latin](./pig-latin/)  | WIP   |
+| [Fibonacci](./fibonacci/)  | [HasMap](./hasMap-train/)  |       |
+| [Guessing game](./guessing_game/) |                            |       |
 
