@@ -18,6 +18,6 @@ Exercises that I have used to learn to program in rust and I leave them here so 
 |-------------------|----------------------------|-------|
 | [Converter](./converter/)  | [Pig-Latin](./pig-latin/)  | WIP   |
 | [Fibonacci](./fibonacci/)  | [HasMap](./hasMap-train/)  |       |
-| [Guessing game](./guessing_game/) |                            |       |
+| [Guessing game](./guessing_game/) |  [Space Age](./space-age/)                          |       |
 | [Reverse Sttring](./reverse-string/) |                         |       |
 
