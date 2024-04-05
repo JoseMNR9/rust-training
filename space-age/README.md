@@ -1,15 +1,15 @@
 # Space Age
 
-Este es un programa interactivo en Rust que calcula la edad de alguien en años terrestres y en años de otros planetas del sistema solar, dados los segundos transcurridos desde su nacimiento.
+This is an interactive program in Rust that calculates someone's age in Earth years and in years of other planets in the solar system, given the seconds since birth.
 
-## Uso
+## Use
 
-1. Ejecute el programa.
-2. Ingrese el número de segundos desde el nacimiento.
-3. Ingrese el nombre del planeta en el que desea calcular la edad (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus o Neptune).
-4. El programa calculará y mostrará la edad de la persona en años terrestres y en años del planeta seleccionado.
+1. Run the program.
+2. Enter the number of seconds since birth.
+3. Enter the name of the planet on which you want to calculate the age (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, or Neptune).
+4. The program will calculate and display the person's age in Earth years and in years of the selected planet.
 
-## Ejemplo
+## Example
 
 ```bash
 $ cargo run

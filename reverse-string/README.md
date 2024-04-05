@@ -1,15 +1,15 @@
 # Reverse String
 
-Este es un programa simple en Rust que toma una entrada de usuario, invierte la cadena ingresada y muestra la cadena invertida.
+This is a simple program in Rust that takes a user input, inverts the input string and displays the inverted string.
 
 ## Uso
 
-1. Ejecute el programa.
-2. Se le pedirá que ingrese una palabra.
-3. Después de ingresar la palabra, presione Enter.
-4. El programa mostrará la palabra ingresada al revés.
+1. Run the program.
+2. You will be prompted to enter a word.
+3. After entering the word, press Enter.
+4. The program will display the entered word upside down.s.
 
-## Ejemplo
+## Example
 
 ```bash
 $ cargo run
