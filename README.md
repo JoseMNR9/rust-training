@@ -14,10 +14,10 @@ Exercises that I have used to learn to program in rust and I leave them here so 
 ## Road Map
 
 
-| Easy              | Intermediate               | Hard  |
-|-------------------|----------------------------|-------|
-| [Converter](./converter/)  | [Pig-Latin](./pig-latin/)  | WIP   |
-| [Fibonacci](./fibonacci/)  | [HasMap](./hasMap-train/)  |       |
-| [Guessing game](./guessing_game/) |  [Space Age](./space-age/)                          |       |
-| [Reverse Sttring](./reverse-string/) |   [Encrypt](./encrypt/)                      |       |
+| Easy              | Intermediate               | Hard                    |
+|-------------------|----------------------------|-------------------------|
+| [Converter](./converter/)  | [Pig-Latin](./pig-latin/)  | [minigrep](./minigrep/) |
+| [Fibonacci](./fibonacci/)  | [HasMap](./hasMap-train/)  |                         |
+| [Guessing game](./guessing_game/) |  [Space Age](./space-age/)                          |                         |
+| [Reverse Sttring](./reverse-string/) |   [Encrypt](./encrypt/)                      |                         |
 
