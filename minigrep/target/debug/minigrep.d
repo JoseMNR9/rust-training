@@ -1,0 +1,1 @@
+C:\Users\chema\Documents\rust\rust-training\minigrep\target\debug\minigrep.exe: C:\Users\chema\Documents\rust\rust-training\minigrep\src\lib.rs C:\Users\chema\Documents\rust\rust-training\minigrep\src\main.rs
